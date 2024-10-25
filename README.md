@@ -1,4 +1,4 @@
-# Hi there, I'm Saurabh Jain (Ajeem12) 👋
+# Hi there, I'm Ajeem (Ajeem12)👋
 
 ## 👀 I’m interested in
 - Full-stack web development (MERN stack)
