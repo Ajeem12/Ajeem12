@@ -1,25 +1,49 @@
-# Hi there, I'm Ajeem (Ajeem12)👋
+# 👋 Hi, I’m Ajeem Beg (@Ajeem12)
 
-## 👀 I’m interested in
-- Full-stack web development (MERN stack)
-- Cybersecurity
-- Adventure sports and travel
+🚀 **Full-Stack Web Developer (MERN Stack)**  
+I build scalable, user-focused web applications with clean UI and reliable backend logic.  
+Strong interest in solving real-world problems through code and continuously improving my engineering skills.
 
-## 🌱 I’m currently learning
-- Advanced JavaScript concepts
-- Improving my React skills
-- Exploring cloud technologies
+---
 
-## 💞️ I’m looking to collaborate on
-- Open-source projects in web development
-- Adventure-related apps
-- Any innovative projects that inspire creativity
+## 🛠 Tech Stack & Interests
+- **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Other:** REST APIs, JWT Authentication, Git, Docker (basics)
+- **Interests:** Full-stack development, cybersecurity fundamentals, cloud technologies
 
-## 📫 How to reach me
-- Email: [ajeembeg98@gmail.com](mailto:ajeembeg98@gmail.com)
-- GitHub: [@Ajeem12](https://github.com/Ajeem12)
+---
 
-<!---
-Ajeem12/Ajeem12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📚 Currently Learning
+- Advanced JavaScript concepts & problem-solving
+- React performance optimization & best practices
+- Cloud & deployment workflows (AWS, CI/CD basics)
+
+---
+
+## 🤝 Open to Collaboration
+- Open-source JavaScript / MERN projects
+- Real-world web applications (dashboards, SaaS, booking platforms)
+- Projects where I can contribute **production-level code**, not just ideas
+
+> I value learning through execution. If the project has no real impact or growth opportunity, I’m not a good fit.
+
+---
+
+## 📌 Featured Projects
+*(Add links when ready — don’t leave this empty)*
+
+- **Tour Booking Platform** – MERN-based application with authentication and CRUD operations  
+- **Video Platform Backend** – REST API for video uploads, users, and interactions  
+- **Hotel Booking System** – Node.js + MongoDB backend with role-based access  
+
+---
+
+## 📬 Contact & Profiles
+- 📧 Email: **ajeembeg98@gmail.com**
+- 💻 GitHub: **https://github.com/Ajeem12**
+
+---
+
+⭐ If you like my work, consider starring a repo or connecting with me.
