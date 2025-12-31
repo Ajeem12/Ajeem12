@@ -35,7 +35,8 @@
 <td width="50%">
 
 ### 📈 Contributions & Stats
-![Ajeem12 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajeem12&show_icons=true&theme=react)
+![](https://github-readme-stats.vercel.app/api?username=Ajeem12&show_icons=true&theme=tokyonight)
+
 
 
 </td>
