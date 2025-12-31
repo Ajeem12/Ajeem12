@@ -85,9 +85,10 @@
 
 ## 📌 Featured Projects
 
-- 🧳 **Tour Booking Platform** – MERN app with auth & bookings  
-- 🎥 **Video Platform Backend** – Node.js REST API  
-- 🏨 **Hotel Booking System** – Role-based backend  
+![](https://github-contributor-stats.vercel.app/api?username=Ajeem12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ajeem12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 _(Links coming soon — quality over quantity)_
 
