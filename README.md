@@ -35,13 +35,11 @@
 <td width="50%">
 
 ### 📈 Contributions & Stats
-![](https://github-readme-stats.vercel.app/api?username=Ajeem12&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Ajeem12&show_icons=true&theme=react"
+  alt="Ajeem12 GitHub stats"
+/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Ajeem12&theme=dark&hide_border=false)
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeem12&theme=dark&hide_border=false&layout=compact)
 
 
 
