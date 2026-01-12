@@ -35,10 +35,8 @@
 <td width="50%">
 
 ### 📈 Contributions & Stats
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Ajeem12&show_icons=true&theme=react"
-  alt="Ajeem12 GitHub stats"
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajeem12&show_icons=true&theme=react)
+
 
 
 
